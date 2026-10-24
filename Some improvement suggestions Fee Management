@@ -1,0 +1,9 @@
+Some improvement suggestions that can be followed
+1. Validation for end date greater than start date
+2. Duplicate batch check
+3. Search batch by course
+4. JTable row click to auto-fill update/delete
+5. Search by student in fee status
+6. Filter deposit history
+7. Print receipt after deposit
+8. Auto-assign fee at the time of enrollment

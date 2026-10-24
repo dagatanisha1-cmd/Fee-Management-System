@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# IDE and build files
+.idea/
+.vscode/
+out/
+build/
+bin/
+
+# Logs and private configuration
+*.log
+.env
+.env.*
+config.properties
